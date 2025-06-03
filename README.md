@@ -11,7 +11,7 @@
 
 **ผู้จัดทำโครงงาน:** 
 1. ภูรินท์ คงใหญ่  6409650816  poohrin.kon@dome.tu.ac.th
-2. วิสุทธิ์ นาทา
+2. วิสุทธิ์ นาทา  6409650832  wisut.nat@dome.tu.ac.th
    
 Manual / Instructions for your projects starts here !
 # npm install
