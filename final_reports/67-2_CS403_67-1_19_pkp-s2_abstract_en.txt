@@ -1,0 +1,9 @@
+Currently, accessing the facilities within the Department of Computer Science,
+Faculty of Science and Technology at Thammasat University requires prior booking
+through a paper-based form. The "CSTU FACILITY BOOKING WEBSITE" project is a
+website developed to address these issues, focusing on enabling users to make
+bookings easily. This aims to improve the efficiency of the process for accessing the
+facilities within the Department of Computer Science, Faculty of Science and
+Technology at Thammasat University.
+
+Keywords: Facilities, Booking, Department of Computer Science, Faculty of Science and Technology Thammasat University
