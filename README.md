@@ -14,6 +14,7 @@
 2. วิสุทธิ์ นาทา
    
 Manual / Instructions for your projects starts here !
-# Topic 1
-# Topic 2 
-# Topic 3
+# npm install
+# npm run build
+# npm install -g serve
+# serve -s dist
